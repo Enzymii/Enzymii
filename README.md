@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script>alert('Hello!');</script>
+<iframe src="https://flappybird.io/"><p>No iframe</p></iframe>
 
 <img src="https://i.imgur.com/VCyizmG.gif" width="200px" alt="ガヴリール 可愛い" />
